@@ -1,2 +1,2 @@
-# ipl-point-table
-IPL Point Table
+# iplpointstable
+Scrapped the ipl points table of every season
